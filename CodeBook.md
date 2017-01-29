@@ -1,5 +1,5 @@
 # Human Activity Recognition Using Smartphones Dataset - Merged and Cleaned Data
-# Codebook - Description of Data, Merging and Cleaning Process, Variables
+## Codebook - Description of Data, Merging and Cleaning Process, Variables
 
 ## Data
 
